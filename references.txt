@@ -1,0 +1,5 @@
+https://community.openai.com/t/how-to-pass-prompt-to-the-chat-completions-create/592629/3
+https://python.langchain.com/docs/modules/data_connection/vectorstores/
+https://python.langchain.com/docs/modules/data_connection/document_transformers/character_text_splitter/
+https://learnprompting.org/docs/intermediate/chain_of_thought
+https://js.langchain.com/docs/modules/data_connection/document_transformers/
